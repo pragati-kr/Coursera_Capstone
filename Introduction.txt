@@ -1,0 +1,8 @@
+Introduction
+
+Through this exercise, a study on neighbourhoods of Toronto and New York (particularly Manhattan) has been carried out. Foursquare API is a great tool to explore around any geographical location on the planet and thus locations have been fed into the API and each location has been further explored.
+
+Further, through Folium the neighbourhoods have been displayed on the map. The neighbourhoods of each city have been clustered using K-Means algorithm by using venues in each neighbourhood as the features. It has been shown that Toronto and New York share 193 common venues, which represents a large correlation between these two cities. Further, population density data between these 2 cities has also been compared to understand the relationship between cities better.
+
+This can be an exciting avenue for people choosing a particular neighbourhood to start a business or for tourists looking to explore areas in the city based on their interest. For people interested in any kind of cuisine can also use the methods in this study to arrive to similar results. 
+
